@@ -23,5 +23,3 @@
 <a href='https://tianoglo.fastapi.com'><img src='https://www.svgrepo.com/show/330413/fastapi.svg' width="40" height="40" alt='FastAPI' /></a>
 <a href='https://tianoglo.fastapi.com'><img src='https://www.svgrepo.com/show/373726/kivy.svg' width="40" height="40" alt='Kivy' /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimanxo&" alt="kimanxo" /></p>
