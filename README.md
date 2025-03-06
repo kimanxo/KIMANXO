@@ -3,6 +3,8 @@
 # 💫 About Me:<br><br>
 A passionate -22 years old- full stack web developer, cyber security enthausiast.<br><br>
 👨‍💻 All of my projects are available at https://github.com/kimanxo<br><br>
+Check my portfolio: https://kimanxo.org<br><br>
+Download my Resumé: https://disk.yandex.ru/i/mJGqBMqhhFOioA<br><br>
 💬 Ask me about Web Development, Cyber Security, Web Scraping<br><br>📫 How to reach me:  kimanxo@yandex.ru<br><br>
 ⚡ Fun fact:  I Love Coffee More Than Python !<br><br>
 
